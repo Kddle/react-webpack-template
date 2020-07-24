@@ -1,0 +1,1 @@
+export const SET_ERROR_MESSAGE = "HP/APP/SET_ERR_MSG";
